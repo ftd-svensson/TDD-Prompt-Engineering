@@ -1,0 +1,1656 @@
+{
+  "experiment_start": "2025-04-13T11:20:47.054561",
+  "test_runs": [
+    {
+      "timestamp": "2025-04-13T11:20:47.062567",
+      "results": {
+        "total": 1,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 1 test in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:49:22.595946",
+      "results": {
+        "total": 1,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 1 test in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:51:46.443761",
+      "results": {
+        "total": 1,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 1 test in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:52:36.226939",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:06:22.675336",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:06:33.273439",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertIsNotNone(self.findArtist(\"Miguel Del Santo\"))\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'findArtist'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nFAILED (errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:09:54.406045",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertIsNotNone(self.findArtist(\"Miguel Del Santo\"))\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'findArtist'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nFAILED (errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:13:49.486724",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertIsNotNone(self.findArtist(\"Adele\"))\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'findArtist'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nFAILED (errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:14:32.361554",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertIsNotNone(self.builder.findArtist(\"Adele\"))\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\main.py\", line 38, in findArtist\n    for concert in self.all_concerts:\nAttributeError: 'ItineraryBuilder' object has no attribute 'all_concerts'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:18:22.146771",
+      "results": {
+        "total": 3,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 29, in test_manual_1\n    self.assertIsNone(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"))\nAssertionError: [] is not None\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:20:14.654634",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:41:31.592793",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ERROR\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nERROR: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 37, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), self.all_concerts.sort())\nAttributeError: 'ItineraryBuilder' object has no attribute 'sortConcerts'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nFAILED (errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:08:54.644583",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 3,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ERROR\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertassertListEqual(self.builder.build_itinerary(), [])\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'assertassertListEqual'\n\n======================================================================\nERROR: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 38, in test_manual_2\n    self.assertassertListEqual(self.builder.build_itinerary(), [])\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'assertassertListEqual'\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 48, in test_manual_3\n    self.assertassertListEqual(self.builder.build_itinerary(), [])\nAttributeError: 'ItineraryBuilderTest' object has no attribute 'assertassertListEqual'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (errors=3)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:09:42.332742",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 3,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ERROR\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ERROR\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertListEqual(self.builder.build_itinerary(), [])\nTypeError: ItineraryBuilder.build_itinerary() missing 1 required positional argument: 'concerts'\n\n======================================================================\nERROR: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 38, in test_manual_2\n    self.assertListEqual(self.builder.build_itinerary(), [])\nTypeError: ItineraryBuilder.build_itinerary() missing 1 required positional argument: 'concerts'\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 48, in test_manual_3\n    self.assertListEqual(self.builder.build_itinerary(), [])\nTypeError: ItineraryBuilder.build_itinerary() missing 1 required positional argument: 'concerts'\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (errors=3)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:10:10.962725",
+      "results": {
+        "total": 3,
+        "failures": 1,
+        "errors": 2,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ERROR\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), self.all_concerts.sort(key = self.builder.concertSortFunction))\nAttributeError: 'ItineraryBuilder' object has no attribute 'sortConcerts'\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(self.builder.singleDatesOnly(self.all_concerts).len(), self.all_concerts.len())\nAttributeError: 'ItineraryBuilder' object has no attribute 'singleDatesOnly'\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x00000225FF433850>\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=1, errors=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:12:49.433315",
+      "results": {
+        "total": 3,
+        "failures": 1,
+        "errors": 2,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ERROR\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), self.all_concerts.sort(key = self.builder.concertSortFunction))\nTypeError: '<' not supported between instances of 'type' and 'type'\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(self.builder.singleDatesOnly(self.all_concerts).len(), self.all_concerts.len())\nAttributeError: 'list' object has no attribute 'len'\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x0000024E3B703730>\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=1, errors=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:19:07.857182",
+      "results": {
+        "total": 3,
+        "failures": 2,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... FAIL\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(self.builder.singleDatesOnly(len(self.all_concerts)), len(self.all_concerts))\n  File \"C:\\ProgramData\\anaconda3\\lib\\unittest\\case.py\", line 1230, in assertLess\n    if not a < b:\nTypeError: '<' not supported between instances of 'list' and 'int'\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x000001C0EA4303D0>\n\n======================================================================\nFAIL: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), sorted(self.all_concerts, key= lambda concert: concert.date))\nAssertionError: Lists differ: [] != [<main.Concert object at 0x000001C0EA43172[1123 chars]500>]\n\nSecond list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x000001C0EA431720>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=2, errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:20:06.191028",
+      "results": {
+        "total": 3,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... FAIL\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x00000257C11E3790>\n\n======================================================================\nFAIL: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), sorted(self.all_concerts, key= lambda concert: concert.date))\nAssertionError: Lists differ: [] != [<main.Concert object at 0x00000257C11E154[1123 chars]BE0>]\n\nSecond list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x00000257C11E1540>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:20:50.529418",
+      "results": {
+        "total": 3,
+        "failures": 2,
+        "errors": 1,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... FAIL\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ERROR\n\n======================================================================\nERROR: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(len(self.builder.singleDatesOnly(self.all_concerts)), len(self.all_concerts))\nTypeError: object of type 'int' has no len()\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x000001FBF08D36A0>\n\n======================================================================\nFAIL: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), sorted(self.all_concerts, key= lambda concert: concert.date))\nAssertionError: Lists differ: [] != [<main.Concert object at 0x000001FBF08D1F9[1123 chars]BB0>]\n\nSecond list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x000001FBF08D1F90>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=2, errors=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:22:03.389917",
+      "results": {
+        "total": 3,
+        "failures": 3,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... FAIL\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... FAIL\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [] != <main.Concert object at 0x0000021DFC5B3700>\n\n======================================================================\nFAIL: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 39, in test_manual_2\n    self.assertListEqual(self.builder.sortConcerts(self.all_concerts), sorted(self.all_concerts, key= lambda concert: concert.date))\nAssertionError: Lists differ: [] != [<main.Concert object at 0x0000021DFC5B1FC[1123 chars]BE0>]\n\nSecond list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x0000021DFC5B1FC0>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n======================================================================\nFAIL: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(len(self.builder.singleDatesOnly(self.all_concerts)), len(self.all_concerts))\nAssertionError: 26 not less than 26\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=3)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:31:20.186907",
+      "results": {
+        "total": 3,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... FAIL\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  Concert(\"Miguel Del Santo\", None, None, None, None))\nAssertionError: [<main.Concert object at 0x00000227608639A0>] != <main.Concert object at 0x0000022760863970>\n\n======================================================================\nFAIL: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(len(self.builder.singleDatesOnly(self.all_concerts)), len(self.all_concerts))\nAssertionError: 26 not less than 26\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:34:59.658402",
+      "results": {
+        "total": 3,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... FAIL\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 30, in test_manual_1\n    self.assertEqual(self.builder.findArtist(self.all_concerts, \"Miguel Del Santo\"),  [Concert(\"Miguel Del Santo\", None, None, None, None)])\nAssertionError: Lists differ: [<main.Concert object at 0x00000103D5613670>] != [<main.Concert object at 0x00000103D5613640>]\n\nFirst differing element 0:\n<main.Concert object at 0x00000103D5613670>\n<main.Concert object at 0x00000103D5613640>\n\n- [<main.Concert object at 0x00000103D5613670>]\n?                                          ^\n\n+ [<main.Concert object at 0x00000103D5613640>]\n?                                          ^\n\n\n======================================================================\nFAIL: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 49, in test_manual_3\n    self.assertLess(len(self.builder.singleDatesOnly(self.all_concerts)), len(self.all_concerts))\nAssertionError: 26 not less than 26\n\n----------------------------------------------------------------------\nRan 3 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:41:07.121354",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:43:05.889993",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:50:29.665050",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.004s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:51:52.905495",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.004s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:53:41.163311",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:54:53.445349",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.002s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:55:51.360663",
+      "results": {
+        "total": 3,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 3 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:12:35.138882",
+      "results": {
+        "total": 6,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nFirst AI written test case. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nSecond AI written test case. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nThird AI written test case. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:16:09.199387",
+      "results": {
+        "total": 6,
+        "failures": 5,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... FAIL\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... FAIL\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... FAIL\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 70, in test_AI_1\n    self.assertEqual(len(itinerary), 2)\nAssertionError: 3 != 2\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 110, in test_AI_3\n    self.assertTrue(artist_names.index(\"One-time Artist\") < artist_names.index(\"Popular Artist\"))\nAssertionError: False is not true\n\n======================================================================\nFAIL: test_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 28, in test_manual_1\n    self.assertListEqual(self.builder.build_itinerary(self.all_concerts), [])\nAssertionError: Lists differ: [<main.Concert object at 0x00000241625E1AE[1123 chars]E70>] != []\n\nFirst list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x00000241625E1AE0>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n======================================================================\nFAIL: test_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 38, in test_manual_2\n    self.assertListEqual(self.builder.build_itinerary(self.all_concerts), [])\nAssertionError: Lists differ: [<main.Concert object at 0x00000241625E1AE[1123 chars]E70>] != []\n\nFirst list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x00000241625E1AE0>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n======================================================================\nFAIL: test_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 48, in test_manual_3\n    self.assertListEqual(self.builder.build_itinerary(self.all_concerts), [])\nAssertionError: Lists differ: [<main.Concert object at 0x00000241625E1AE[1123 chars]E70>] != []\n\nFirst list contains 26 additional elements.\nFirst extra element 0:\n<main.Concert object at 0x00000241625E1AE0>\n\nDiff is 1253 characters long. Set self.maxDiff to None to see it.\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=5)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:17:14.218417",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 70, in test_AI_1\n    self.assertEqual(len(itinerary), 2)\nAssertionError: 3 != 2\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 110, in test_AI_3\n    self.assertTrue(artist_names.index(\"One-time Artist\") < artist_names.index(\"Popular Artist\"))\nAssertionError: False is not true\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:24:56.904984",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 110, in test_AI_3\n    self.assertTrue(artist_names.index(\"One-time Artist\") < artist_names.index(\"Popular Artist\"))\nAssertionError: False is not true\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:26:41.298902",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 110, in test_AI_3\n    self.assertTrue(artist_names.index(\"One-time Artist\") < artist_names.index(\"Popular Artist\"))\nAssertionError: False is not true\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:29:19.335994",
+      "results": {
+        "total": 6,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:33:32.485228",
+      "results": {
+        "total": 6,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.000s\n\nOK\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:36:10.622366",
+      "results": {
+        "total": 11,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_closest_concert_is_chosen_among_same_day (test.ItineraryBuilderTest) ... FAIL\ntest_empty_list_returns_empty_itinerary (test.ItineraryBuilderTest) ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\ntest_multiple_concerts_same_day_only_one_kept (test.ItineraryBuilderTest) ... ok\ntest_one_time_artists_win_even_when_farther (test.ItineraryBuilderTest) ... FAIL\ntest_single_concert_is_returned (test.ItineraryBuilderTest) ... ok\n\n======================================================================\nFAIL: test_closest_concert_is_chosen_among_same_day (test.ItineraryBuilderTest)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 144, in test_closest_concert_is_chosen_among_same_day\n    self.assertIn(\"B\", artists)\nAssertionError: 'B' not found in ['Prev', 'A']\n\n======================================================================\nFAIL: test_one_time_artists_win_even_when_farther (test.ItineraryBuilderTest)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 152, in test_one_time_artists_win_even_when_farther\n    self.assertIn(\"Unique\", [c.artist for c in result])\nAssertionError: 'Unique' not found in ['Regular']\n\n----------------------------------------------------------------------\nRan 11 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:36:15.478387",
+      "results": {
+        "total": 11,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return a list of concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_closest_concert_is_chosen_among_same_day (test.ItineraryBuilderTest) ... FAIL\ntest_empty_list_returns_empty_itinerary (test.ItineraryBuilderTest) ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\ntest_multiple_concerts_same_day_only_one_kept (test.ItineraryBuilderTest) ... ok\ntest_one_time_artists_win_even_when_farther (test.ItineraryBuilderTest) ... FAIL\ntest_single_concert_is_returned (test.ItineraryBuilderTest) ... ok\n\n======================================================================\nFAIL: test_closest_concert_is_chosen_among_same_day (test.ItineraryBuilderTest)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 144, in test_closest_concert_is_chosen_among_same_day\n    self.assertIn(\"B\", artists)\nAssertionError: 'B' not found in ['Prev', 'A']\n\n======================================================================\nFAIL: test_one_time_artists_win_even_when_farther (test.ItineraryBuilderTest)\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 152, in test_one_time_artists_win_even_when_farther\n    self.assertIn(\"Unique\", [c.artist for c in result])\nAssertionError: 'Unique' not found in ['Regular']\n\n----------------------------------------------------------------------\nRan 11 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:38:15.330684",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:40:44.279720",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:42:18.527714",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 112, in test_AI_3\n    self.assertTrue(\nAssertionError: False is not true : One-time artists should appear before multi-concert artists\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:44:34.205303",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 112, in test_AI_3\n    self.assertTrue(\nAssertionError: False is not true : One-time artists should appear before multi-concert artists\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:48:39.249975",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 112, in test_AI_3\n    self.assertTrue(\nAssertionError: False is not true : One-time artists should appear before multi-concert artists\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:50:15.227432",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 112, in test_AI_3\n    self.assertTrue(\nAssertionError: False is not true : One-time artists should appear before multi-concert artists\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:52:38.877758",
+      "results": {
+        "total": 6,
+        "failures": 2,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... FAIL\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n======================================================================\nFAIL: test_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 112, in test_AI_3\n    self.assertTrue(\nAssertionError: False is not true : One-time artists should appear before multi-concert artists\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=2)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:54:44.945181",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:56:14.073754",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:58:14.243203",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:59:34.175109",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:07:47.283981",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:09:12.341334",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:13:08.004021",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:17:00.651779",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 69, in test_AI_1\n    self.assertEqual(len(set(dates)), len(dates), \"Concert dates must be unique\")\nAssertionError: 2 != 3 : Concert dates must be unique\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:18:34.701799",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 69, in test_AI_1\n    self.assertEqual(len(set(dates)), len(dates), \"Concert dates must be unique\")\nAssertionError: 2 != 3 : Concert dates must be unique\n\n----------------------------------------------------------------------\nRan 6 tests in 0.001s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:26:58.445518",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.002s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:29:34.659399",
+      "results": {
+        "total": 6,
+        "failures": 1,
+        "errors": 0,
+        "skipped": 0,
+        "success": false,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... FAIL\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n======================================================================\nFAIL: test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day.\n----------------------------------------------------------------------\nTraceback (most recent call last):\n  File \"C:\\Users\\ftd-s\\Documents\\GitHub\\TDD-Prompt-Engineering\\test.py\", line 71, in test_AI_1\n    self.assertIn(\"C\", [c.artist for c in itinerary])\nAssertionError: 'C' not found in ['A', 'B']\n\n----------------------------------------------------------------------\nRan 6 tests in 0.002s\n\nFAILED (failures=1)\n"
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:37:44.634545",
+      "results": {
+        "total": 6,
+        "failures": 0,
+        "errors": 0,
+        "skipped": 0,
+        "success": true,
+        "details": "test_AI_1 (test.ItineraryBuilderTest)\nNo two concerts may take place on the same day. ... ok\ntest_AI_2 (test.ItineraryBuilderTest)\nThe itinerary should return concerts with artist, date, and location. ... ok\ntest_AI_3 (test.ItineraryBuilderTest)\nArtists with only one concert should be prioritized over artists with multiple concerts. ... ok\ntest_manual_1 (test.ItineraryBuilderTest)\nFirst manually written test case. ... ok\ntest_manual_2 (test.ItineraryBuilderTest)\nSecond manually written test case. ... ok\ntest_manual_3 (test.ItineraryBuilderTest)\nThird manually written test case. ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.000s\n\nOK\n"
+      }
+    }
+  ],
+  "file_changes": [],
+  "coverage_reports": [
+    {
+      "timestamp": "2025-04-13T11:20:47.075079",
+      "total_coverage": 26.666666666666668,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 11,
+          "lines_covered": 8,
+          "lines_missed": 15,
+          "percentage": 72.72727272727273
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:49:22.609458",
+      "total_coverage": 26.666666666666668,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 11,
+          "lines_covered": 8,
+          "lines_missed": 15,
+          "percentage": 72.72727272727273
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:51:46.489801",
+      "total_coverage": 26.666666666666668,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 11,
+          "lines_covered": 8,
+          "lines_missed": 15,
+          "percentage": 72.72727272727273
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T11:52:36.271978",
+      "total_coverage": 40.90909090909091,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 18,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 55.55555555555556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:06:22.688848",
+      "total_coverage": 40.90909090909091,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 18,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 55.55555555555556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:06:33.319479",
+      "total_coverage": 40.90909090909091,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 18,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 55.55555555555556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:09:54.452584",
+      "total_coverage": 40.90909090909091,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 18,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 55.55555555555556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:13:49.537268",
+      "total_coverage": 39.130434782608695,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 19,
+          "lines_covered": 11,
+          "lines_missed": 26,
+          "percentage": 57.89473684210526
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:14:32.409095",
+      "total_coverage": 25.58139534883721,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 20,
+          "lines_covered": 18,
+          "lines_missed": 11,
+          "percentage": 90.0
+        },
+        "test.py": {
+          "lines_total": 19,
+          "lines_covered": 11,
+          "lines_missed": 26,
+          "percentage": 57.89473684210526
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:18:22.197315",
+      "total_coverage": 34.883720930232556,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 19,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 52.63157894736842
+        },
+        "main.py": {
+          "lines_total": 20,
+          "lines_covered": 15,
+          "lines_missed": 11,
+          "percentage": 75.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:20:14.700674",
+      "total_coverage": 34.883720930232556,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 19,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 52.63157894736842
+        },
+        "main.py": {
+          "lines_total": 20,
+          "lines_covered": 15,
+          "lines_missed": 11,
+          "percentage": 75.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T12:41:31.639333",
+      "total_coverage": 33.333333333333336,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 18,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 55.55555555555556
+        },
+        "main.py": {
+          "lines_total": 20,
+          "lines_covered": 15,
+          "lines_missed": 11,
+          "percentage": 75.0
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:08:54.693124",
+      "total_coverage": 34.61538461538461,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 14,
+          "lines_missed": 29,
+          "percentage": 63.63636363636363
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:09:42.380784",
+      "total_coverage": 34.61538461538461,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 14,
+          "lines_missed": 29,
+          "percentage": 63.63636363636363
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:10:11.011767",
+      "total_coverage": 52.17391304347826,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 20,
+          "lines_covered": 9,
+          "lines_missed": 22,
+          "percentage": 45.0
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:12:49.481857",
+      "total_coverage": 51.92307692307692,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 26,
+          "lines_covered": 12,
+          "lines_missed": 34,
+          "percentage": 46.15384615384615
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:19:07.908727",
+      "total_coverage": 52.0,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 24,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 45.833333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:20:06.241071",
+      "total_coverage": 52.0,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 24,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 45.833333333333336
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:20:50.580461",
+      "total_coverage": 52.0,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 24,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 45.833333333333336
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:22:03.440961",
+      "total_coverage": 52.0,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 24,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 45.833333333333336
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:31:20.234949",
+      "total_coverage": 58.62068965517241,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 32,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 34.375
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:34:59.709447",
+      "total_coverage": 58.62068965517241,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 32,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 34.375
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:41:07.169396",
+      "total_coverage": 59.32203389830509,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:43:05.937034",
+      "total_coverage": 59.32203389830509,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:50:29.718096",
+      "total_coverage": 61.29032258064516,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 36,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 30.555555555555557
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:51:52.957540",
+      "total_coverage": 61.29032258064516,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 36,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 30.555555555555557
+        },
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:53:41.210852",
+      "total_coverage": 59.32203389830509,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:54:53.496393",
+      "total_coverage": 60.65573770491803,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 35,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 31.428571428571427
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T13:55:51.408204",
+      "total_coverage": 59.32203389830509,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 22,
+          "lines_covered": 10,
+          "lines_missed": 23,
+          "percentage": 45.45454545454545
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:12:35.186422",
+      "total_coverage": 58.46153846153846,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 28,
+          "lines_covered": 13,
+          "lines_missed": 35,
+          "percentage": 46.42857142857143
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:16:09.255436",
+      "total_coverage": 39.75903614457831,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 46,
+          "lines_covered": 20,
+          "lines_missed": 49,
+          "percentage": 43.47826086956522
+        },
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 27,
+          "lines_missed": 18,
+          "percentage": 81.81818181818181
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:17:14.269960",
+      "total_coverage": 62.5,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 33,
+          "lines_covered": 11,
+          "lines_missed": 30,
+          "percentage": 33.333333333333336
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 16,
+          "lines_missed": 40,
+          "percentage": 37.2093023255814
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:24:56.954527",
+      "total_coverage": 73.63636363636364,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 63,
+          "lines_covered": 13,
+          "lines_missed": 36,
+          "percentage": 20.634920634920636
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 13,
+          "lines_missed": 37,
+          "percentage": 30.232558139534884
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:26:41.347945",
+      "total_coverage": 72.32142857142857,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 13,
+          "lines_missed": 37,
+          "percentage": 30.232558139534884
+        },
+        "main.py": {
+          "lines_total": 65,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.076923076923077
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:29:19.385037",
+      "total_coverage": 72.07207207207207,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 64,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.4375
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 13,
+          "lines_missed": 37,
+          "percentage": 30.232558139534884
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:33:32.534771",
+      "total_coverage": 72.07207207207207,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 13,
+          "lines_missed": 37,
+          "percentage": 30.232558139534884
+        },
+        "main.py": {
+          "lines_total": 64,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.4375
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:36:10.674410",
+      "total_coverage": 73.61111111111111,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 76,
+          "lines_covered": 20,
+          "lines_missed": 66,
+          "percentage": 26.31578947368421
+        },
+        "main.py": {
+          "lines_total": 64,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.4375
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:36:15.496403",
+      "total_coverage": 73.61111111111111,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 76,
+          "lines_covered": 20,
+          "lines_missed": 66,
+          "percentage": 26.31578947368421
+        },
+        "main.py": {
+          "lines_total": 64,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.4375
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:38:15.379726",
+      "total_coverage": 71.17117117117117,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 64,
+          "lines_covered": 15,
+          "lines_missed": 44,
+          "percentage": 23.4375
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:40:44.329263",
+      "total_coverage": 72.41379310344827,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 69,
+          "lines_covered": 15,
+          "lines_missed": 45,
+          "percentage": 21.73913043478261
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:42:18.578258",
+      "total_coverage": 72.80701754385964,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 67,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 20.895522388059703
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:44:34.254846",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 21.21212121212121
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:48:39.302020",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 21.21212121212121
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:50:15.277475",
+      "total_coverage": 73.04347826086956,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 68,
+          "lines_covered": 14,
+          "lines_missed": 42,
+          "percentage": 20.58823529411765
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:52:38.927801",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 42,
+          "percentage": 21.21212121212121
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:54:44.995724",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 21.21212121212121
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:56:14.126300",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 41,
+          "percentage": 21.21212121212121
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:58:14.293747",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 42,
+          "percentage": 21.21212121212121
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T14:59:34.226153",
+      "total_coverage": 72.56637168141593,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 66,
+          "lines_covered": 14,
+          "lines_missed": 42,
+          "percentage": 21.21212121212121
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:07:47.334025",
+      "total_coverage": 72.80701754385964,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 67,
+          "lines_covered": 14,
+          "lines_missed": 43,
+          "percentage": 20.895522388059703
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:09:12.391878",
+      "total_coverage": 72.80701754385964,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 67,
+          "lines_covered": 14,
+          "lines_missed": 43,
+          "percentage": 20.895522388059703
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:13:08.054063",
+      "total_coverage": 73.04347826086956,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 68,
+          "lines_covered": 14,
+          "lines_missed": 43,
+          "percentage": 20.58823529411765
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:17:00.709329",
+      "total_coverage": 73.6,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 78,
+          "lines_covered": 15,
+          "lines_missed": 48,
+          "percentage": 19.23076923076923
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 15,
+          "lines_missed": 40,
+          "percentage": 34.883720930232556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:18:34.753343",
+      "total_coverage": 73.6,
+      "file_coverage": {
+        "main.py": {
+          "lines_total": 78,
+          "lines_covered": 15,
+          "lines_missed": 48,
+          "percentage": 19.23076923076923
+        },
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 15,
+          "lines_missed": 40,
+          "percentage": 34.883720930232556
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:26:58.496062",
+      "total_coverage": 70.3125,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 81,
+          "lines_covered": 21,
+          "lines_missed": 52,
+          "percentage": 25.925925925925927
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:29:34.710944",
+      "total_coverage": 70.3125,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 14,
+          "lines_missed": 40,
+          "percentage": 32.55813953488372
+        },
+        "main.py": {
+          "lines_total": 81,
+          "lines_covered": 21,
+          "lines_missed": 52,
+          "percentage": 25.925925925925927
+        }
+      }
+    },
+    {
+      "timestamp": "2025-04-13T15:37:44.684588",
+      "total_coverage": 74.61538461538461,
+      "file_coverage": {
+        "test.py": {
+          "lines_total": 43,
+          "lines_covered": 13,
+          "lines_missed": 37,
+          "percentage": 30.232558139534884
+        },
+        "main.py": {
+          "lines_total": 83,
+          "lines_covered": 17,
+          "lines_missed": 52,
+          "percentage": 20.481927710843372
+        }
+      }
+    }
+  ],
+  "task_times": [
+    {
+      "timestamp": "2025-04-13T13:23:13.583874",
+      "task": "Manual test writing (RED phase)",
+      "duration": 143.0
+    },
+    {
+      "timestamp": "2025-04-13T13:41:48.488383",
+      "task": "Manual implementation (GREEN phase)",
+      "duration": 18.0
+    },
+    {
+      "timestamp": "2025-04-13T14:01:00.711456",
+      "task": "Manual refactoring (REFACTOR phase)",
+      "duration": 19.0
+    },
+    {
+      "timestamp": "2025-04-13T14:18:41.940237",
+      "task": "Manual test writing (RED phase)",
+      "duration": 18.0
+    },
+    {
+      "timestamp": "2025-04-13T14:31:10.481708",
+      "task": "AI-assisted test writing (RED phase)",
+      "duration": 18.0
+    },
+    {
+      "timestamp": "2025-04-13T14:31:43.869903",
+      "task": "AI-assisted implementation (GREEN phase)",
+      "duration": 5.0
+    },
+    {
+      "timestamp": "2025-04-13T14:33:02.592180",
+      "task": "AI-assisted implementation (GREEN phase)",
+      "duration": 13.0
+    },
+    {
+      "timestamp": "2025-04-13T15:38:15.323843",
+      "task": "AI-assisted refactoring (REFACTOR phase)",
+      "duration": 55.0
+    }
+  ],
+  "constraint_assignments": {
+    "manual": [
+      3,
+      1,
+      2
+    ],
+    "ai_assisted": [
+      4,
+      0,
+      5
+    ],
+    "assigned_at": "2025-04-13T11:51:41"
+  }
+}
