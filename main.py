@@ -31,7 +31,7 @@ class ItineraryBuilder:
     """
     A class to build concert itineraries. 
     """
-    
+    # :^)
     def build_itinerary(self, concerts):
         # Step 1: Sort concerts by date
         concerts = sorted(concerts, key=lambda c: c.date)
